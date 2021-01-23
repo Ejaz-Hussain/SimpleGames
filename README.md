@@ -1,2 +1,2 @@
-#Simple #Games
-Simple Games Made in Core C++
+#Games
+Simple games made in core c++
