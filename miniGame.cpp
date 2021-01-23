@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
+//Has Some flaws (no instructions given on how to play\
+Everything else is fine - also multiple characters accepted).
+
 int posX = 6;
 int posY = 1;
 int foodX = 0;
